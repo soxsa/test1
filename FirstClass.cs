@@ -10,6 +10,6 @@ namespace app1
     {
         public string foo = "hello from firstclass";
         public int bar = 9;
-        public int i = 0;
+        public int i = 1;
     }
 }
