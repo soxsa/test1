@@ -11,5 +11,8 @@ namespace app1
         public string foo = "hello from firstclass";
         public int bar = 9;
         public int i = 1;
+
+        //Add this in branchA
+	string branchA = "hello";
     }
 }
