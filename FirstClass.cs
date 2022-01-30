@@ -14,5 +14,8 @@ namespace app1
 
         //This added to master
         string master = "world";
+        
+        //Add this in branchA
+	string branchA = "hello";
     }
 }
